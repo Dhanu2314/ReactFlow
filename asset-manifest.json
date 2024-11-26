@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactFlow/static/css/main.616ba065.css",
+    "main.js": "/ReactFlow/static/js/main.68c8accd.js",
+    "static/js/453.793aab23.chunk.js": "/ReactFlow/static/js/453.793aab23.chunk.js",
+    "index.html": "/ReactFlow/index.html",
+    "main.616ba065.css.map": "/ReactFlow/static/css/main.616ba065.css.map",
+    "main.68c8accd.js.map": "/ReactFlow/static/js/main.68c8accd.js.map",
+    "453.793aab23.chunk.js.map": "/ReactFlow/static/js/453.793aab23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.616ba065.css",
+    "static/js/main.68c8accd.js"
+  ]
+}
